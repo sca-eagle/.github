@@ -1,4 +1,9 @@
-## Hi there 👋
+### Welcome 🤙
+---
+* **Author** : Ahmad Sugi Maulana
+* **From** : Indonesia
+* **Age** : 18
+* **Gender** : Male
 
 <!--
 
